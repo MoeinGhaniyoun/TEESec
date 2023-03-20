@@ -1,0 +1,3 @@
+[submodule "riscv-pk-TEESec"]
+	path = riscv-pk-TEESec
+	url = https://github.com/MoeinGhaniyoun/riscv-pk-TEESec.git
