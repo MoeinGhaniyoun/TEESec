@@ -1,3 +1,12 @@
 [submodule "riscv-pk-TEESec"]
 	path = riscv-pk-TEESec
 	url = https://github.com/MoeinGhaniyoun/riscv-pk-TEESec.git
+[submodule "BOOMv3-TEESec"]
+	path = BOOMv3-TEESec
+	url = https://github.com/MoeinGhaniyoun/BOOMv3-TEESec.git
+[submodule "XiangShan-TEESec"]
+	path = XiangShan-TEESec
+	url = https://github.com/MoeinGhaniyoun/XiangShan-TEESec.git
+[submodule "TestGadgetConstructor-TEESec"]
+	path = TestGadgetConstructor-TEESec
+	url = https://github.com/MoeinGhaniyoun/TestGadgetConstructor-TEESec.git
